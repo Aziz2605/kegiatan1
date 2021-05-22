@@ -3,7 +3,7 @@
 <head>
     <title>HOME</title>
 </head>
-<body background="image/tes6.jpg">
+<body background="tes6.jpg">
 <div id="header" class="header">
         <div id="seacrh">
 </div>
