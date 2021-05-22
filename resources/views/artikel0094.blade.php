@@ -3,7 +3,7 @@
 <head>
     <title>framework adalah</title>
 </head>
-<body background="image/tes6.jpg">
+<body background="tes6.jpg">
     <h1>Framework adalah?</h1>
     <p>Framework (kerangka kerja) adalah istilah yang sering muncul dalam dunia developer. Istilah tersebut memiliki fungsi yang sangat besar bagi pengembangan kode program secara sistematis. Saat ini, seorang pengembang khususnya dalam bidang web development diharuskan untuk mempelajari dan menggunakan sebuah kerangka kerja dalam pembuatan perangkat lunak.
 
